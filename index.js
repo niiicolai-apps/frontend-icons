@@ -57,6 +57,30 @@ import SearchIcon from './src/icons/SearchIcon.vue';
 import PlayIcon from './src/icons/PlayIcon.vue';
 import PauseIcon from './src/icons/PauseIcon.vue';
 import StopIcon from './src/icons/StopIcon.vue';
+import NewsIcon from './src/icons/NewsIcon.vue';
+import IciclesIcon from './src/icons/IciclesIcon.vue';
+import HillRockSlideIcon from './src/icons/HillRockSlideIcon.vue';
+import WindIcon from './src/icons/WindIcon.vue';
+import AtomIcon from './src/icons/AtomIcon.vue';
+import BookIcon from './src/icons/BookIcon.vue';
+import MedalIcon from './src/icons/MedalIcon.vue';
+import UserAstronautIcon from './src/icons/UserAstronautIcon.vue';
+import SatelliteDishIcon from './src/icons/SatelliteDishIcon.vue';
+import SpaceAwesomeIcon from './src/icons/SpaceAwesomeIcon.vue';
+import RocketIcon from './src/icons/RocketIcon.vue';
+import MeteorIcon from './src/icons/MeteorIcon.vue';
+import SatelliteIcon from './src/icons/SatelliteIcon.vue';
+import RingIcon from './src/icons/RingIcon.vue';
+import BoltIcon from './src/icons/BoltIcon.vue';
+import TowerBroadcastIcon from './src/icons/TowerBroadcastIcon.vue';
+import ExplosionIcon from './src/icons/ExplosionIcon.vue';
+import CircleRadiationIcon from './src/icons/CircleRadiationIcon.vue';
+import PlugCircleBoltIcon from './src/icons/PlugCircleBoltIcon.vue';
+import OilWellIcon from './src/icons/OilWellIcon.vue';
+import BatteryQuarterIcon from './src/icons/BatteryQuarterIcon.vue';
+import BatteryHalfIcon from './src/icons/BatteryHalfIcon.vue';
+import BatteryFullIcon from './src/icons/BatteryFullIcon.vue';
+import SolarPanelIcon from './src/icons/SolarPanelIcon.vue';
 
 export default {
     fa: {
@@ -118,6 +142,30 @@ export default {
         SearchIcon,
         PlayIcon,
         PauseIcon,
-        StopIcon
+        StopIcon,
+        NewsIcon,
+        IciclesIcon,
+        HillRockSlideIcon,
+        WindIcon,
+        AtomIcon,
+        BookIcon,
+        MedalIcon,
+        UserAstronautIcon,
+        SatelliteDishIcon,
+        SpaceAwesomeIcon,
+        RocketIcon,
+        MeteorIcon,
+        SatelliteIcon,
+        RingIcon,
+        BoltIcon,
+        TowerBroadcastIcon,
+        ExplosionIcon,
+        CircleRadiationIcon,
+        PlugCircleBoltIcon,
+        OilWellIcon,
+        BatteryQuarterIcon,
+        BatteryHalfIcon,
+        BatteryFullIcon,
+        SolarPanelIcon,
     }
 }

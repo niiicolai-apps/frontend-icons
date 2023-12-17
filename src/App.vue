@@ -6,6 +6,25 @@ import Icons from '../index.js';
   <div>
     <h2>Font-Awesome Icons</h2>
     <div class="grid">
+      <Icons.fa.SolarPanelIcon width="2em" height="2em" />
+      <Icons.fa.RingIcon width="2em" height="2em" />
+      <Icons.fa.BoltIcon width="2em" height="2em" />
+      <Icons.fa.TowerBroadcastIcon width="2em" height="2em" />
+      <Icons.fa.ExplosionIcon width="2em" height="2em" />
+      <Icons.fa.CircleRadiationIcon width="2em" height="2em" />
+      <Icons.fa.PlugCircleBoltIcon width="2em" height="2em" />
+      <Icons.fa.OilWellIcon width="2em" height="2em" />
+      <Icons.fa.BatteryQuarterIcon width="2em" height="2em" />
+      <Icons.fa.BatteryHalfIcon width="2em" height="2em" />
+      <Icons.fa.BatteryFullIcon width="2em" height="2em" />
+      <Icons.fa.SatelliteIcon width="2em" height="2em" />
+      <Icons.fa.RocketIcon width="2em" height="2em" />
+      <Icons.fa.MeteorIcon width="2em" height="2em" />
+      <Icons.fa.SpaceAwesomeIcon width="2em" height="2em" />
+      <Icons.fa.SatelliteDishIcon width="2em" height="2em" />
+      <Icons.fa.UserAstronautIcon width="2em" height="2em" />
+      <Icons.fa.MedalIcon width="2em" height="2em" />
+      <Icons.fa.BookIcon width="2em" height="2em" />
       <Icons.fa.HeartIcon width="2em" height="2em" />
       <Icons.fa.BookSkullIcon width="2em" height="2em" />
       <Icons.fa.ScrollIcon width="2em" height="2em" />
@@ -65,6 +84,11 @@ import Icons from '../index.js';
       <Icons.fa.PlayIcon width="2em" height="2em" />
       <Icons.fa.PauseIcon width="2em" height="2em" />
       <Icons.fa.StopIcon width="2em" height="2em" />
+      <Icons.fa.NewsIcon width="2em" height="2em" />
+      <Icons.fa.IciclesIcon width="2em" height="2em" />
+      <Icons.fa.HillRockSlideIcon width="2em" height="2em" />
+      <Icons.fa.WindIcon width="2em" height="2em" />
+      <Icons.fa.AtomIcon width="2em" height="2em" />
     </div>
   </div>
 </template>
