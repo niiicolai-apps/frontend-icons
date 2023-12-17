@@ -57,6 +57,7 @@ import SearchIcon from './src/icons/SearchIcon.vue';
 import PlayIcon from './src/icons/PlayIcon.vue';
 import PauseIcon from './src/icons/PauseIcon.vue';
 import StopIcon from './src/icons/StopIcon.vue';
+
 import NewsIcon from './src/icons/NewsIcon.vue';
 import IciclesIcon from './src/icons/IciclesIcon.vue';
 import HillRockSlideIcon from './src/icons/HillRockSlideIcon.vue';
@@ -81,6 +82,13 @@ import BatteryQuarterIcon from './src/icons/BatteryQuarterIcon.vue';
 import BatteryHalfIcon from './src/icons/BatteryHalfIcon.vue';
 import BatteryFullIcon from './src/icons/BatteryFullIcon.vue';
 import SolarPanelIcon from './src/icons/SolarPanelIcon.vue';
+import UpDownLeftRightIcon from './src/icons/UpDownLeftRightIcon.vue';
+import CircleUpIcon from './src/icons/CircleUpIcon.vue';
+import RobotIcon from './src/icons/RobotIcon.vue';
+import VolumeXMarkIcon from './src/icons/VolumeXMarkIcon.vue';
+import VolumeHighIcon from './src/icons/VolumeHighIcon.vue';
+import VolumeOffIcon from './src/icons/VolumeOffIcon.vue';
+import CircleNotchIcon from './src/icons/CircleNotchIcon.vue';
 
 export default {
     fa: {
@@ -167,5 +175,12 @@ export default {
         BatteryHalfIcon,
         BatteryFullIcon,
         SolarPanelIcon,
+        UpDownLeftRightIcon,
+        CircleUpIcon,
+        RobotIcon,
+        VolumeXMarkIcon,
+        VolumeHighIcon,
+        VolumeOffIcon,
+        CircleNotchIcon,
     }
 }

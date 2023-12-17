@@ -6,6 +6,13 @@ import Icons from '../index.js';
   <div>
     <h2>Font-Awesome Icons</h2>
     <div class="grid">
+      <Icons.fa.CircleNotchIcon width="2em" height="2em" />
+      <Icons.fa.VolumeOffIcon width="2em" height="2em" />
+      <Icons.fa.VolumeHighIcon width="2em" height="2em" />
+      <Icons.fa.VolumeXMarkIcon width="2em" height="2em" />
+      <Icons.fa.UpDownLeftRightIcon width="2em" height="2em" />
+      <Icons.fa.CircleUpIcon width="2em" height="2em" />
+      <Icons.fa.RobotIcon width="2em" height="2em" />
       <Icons.fa.SolarPanelIcon width="2em" height="2em" />
       <Icons.fa.RingIcon width="2em" height="2em" />
       <Icons.fa.BoltIcon width="2em" height="2em" />
